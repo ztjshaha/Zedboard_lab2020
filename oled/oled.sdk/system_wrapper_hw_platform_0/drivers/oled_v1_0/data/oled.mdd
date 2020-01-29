@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER oled
+	OPTION supported_peripherals = (oled);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = oled;
+END DRIVER

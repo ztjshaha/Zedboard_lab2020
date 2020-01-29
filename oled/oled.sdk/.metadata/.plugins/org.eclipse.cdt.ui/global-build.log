@@ -1,0 +1,1114 @@
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_6/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/oled_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/oled_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_7/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_6/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/oled_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/oled_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling oled..."
+oled_selftest.c: In function 'OLED_Reg_SelfTest':
+oled_selftest.c:52:53: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    if ( OLED_mReadReg (baseaddr, read_loop_index*4) != (read_loop_index+1)*READ_WRITE_MUL_FACTOR){
+                                                     ^~
+oled_selftest.c:36:6: warning: unused variable 'Index' [-Wunused-variable]
+  int Index;
+      ^~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_7/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from sleep.c:57:0:
+xtime_l.h:89:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from usleep.c:60:0:
+xtime_l.h:89:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:55:0:
+xtime_l.h:89:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:53:0:
+xtime_l.h:89:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+21:59:36 **** Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:60:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/oled.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/oled.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/oled.d" -MT"src/oled.o" -o "src/oled.o" "../src/oled.c"
+'Finished building: ../src/oled.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  25852	   1144	  23592	  50588	   c59c	hello.elf
+'Finished building: hello.elf.size'
+' '
+21:59:49 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+22:04:31 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:60:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  25856	   1144	  23592	  50592	   c5a0	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:08:45 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  25856	   1144	  23592	  50592	   c5a0	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:10:22 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:58:5: error: unknown type name 'xGpio'; did you mean 'XGpio'?
+     xGpio btns;
+     ^~~~~
+     XGpio
+../src/helloworld.c:61:22: warning: passing argument 1 of 'XGpio_Initialize' from incompatible pointer type [-Wincompatible-pointer-types]
+     XGpio_Initialize(&btns, XPAR_BTNS_DEVICE_ID);
+                      ^
+In file included from ../src/helloworld.c:53:0:
+../../hello_bsp/ps7_cortexa9_0/include/xgpio.h:172:5: note: expected 'XGpio * {aka struct <anonymous> *}' but argument is of type 'int *'
+ int XGpio_Initialize(XGpio *InstancePtr, u16 DeviceId);
+     ^~~~~~~~~~~~~~~~
+../src/helloworld.c:62:28: error: expected expression before 'XGpio'
+     XGpio_SetDataDirection(XGpio *InstancePtr, unsigned Channel,
+                            ^~~~~
+../src/helloworld.c:62:5: error: too few arguments to function 'XGpio_SetDataDirection'
+     XGpio_SetDataDirection(XGpio *InstancePtr, unsigned Channel,
+     ^~~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:53:0:
+../../hello_bsp/ps7_cortexa9_0/include/xgpio.h:180:6: note: declared here
+ void XGpio_SetDataDirection(XGpio *InstancePtr, unsigned Channel,
+      ^~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:66:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+make: *** [src/helloworld.o] ´íÎó 1
+23:10:34 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:28: error: expected expression before 'XGpio'
+     XGpio_SetDataDirection(XGpio *InstancePtr, unsigned Channel,
+                            ^~~~~
+../src/helloworld.c:62:5: error: too few arguments to function 'XGpio_SetDataDirection'
+     XGpio_SetDataDirection(XGpio *InstancePtr, unsigned Channel,
+     ^~~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:53:0:
+../../hello_bsp/ps7_cortexa9_0/include/xgpio.h:180:6: note: declared here
+ void XGpio_SetDataDirection(XGpio *InstancePtr, unsigned Channel,
+      ^~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:66:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+make: *** [src/helloworld.o] ´íÎó 1
+23:11:04 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:66:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  27144	   1192	  23608	  51944	   cae8	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:13:08 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:66:5: error: too many arguments to function 'print'
+     print("btns=%d\n\r",XGpio_DiscreteRead(&btns, 0));
+     ^~~~~
+In file included from ../src/helloworld.c:50:0:
+../../hello_bsp/ps7_cortexa9_0/include/xil_printf.h:40:6: note: declared here
+ void print( const char8 *ptr);
+      ^~~~~
+../src/helloworld.c:67:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+make: *** [src/helloworld.o] ´íÎó 1
+23:13:18 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:66:19: warning: format '%d' expects argument of type 'int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     printf("btns=%d\n\r",XGpio_DiscreteRead(&btns, 0));
+                  ~^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  %ld
+../src/helloworld.c:67:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77720	   2628	  24368	 104716	  1990c	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:13:37 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:66:20: warning: unknown conversion type character '\x0a' in format [-Wformat=]
+     printf("btns=%l\n\r",XGpio_DiscreteRead(&btns, 0));
+                    ^~
+../src/helloworld.c:66:12: warning: too many arguments for format [-Wformat-extra-args]
+     printf("btns=%l\n\r",XGpio_DiscreteRead(&btns, 0));
+            ^~~~~~~~~~~~~
+../src/helloworld.c:67:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77720	   2628	  24368	 104716	  1990c	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:13:43 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:66:19: warning: format '%d' expects argument of type 'int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     printf("btns=%d\n\r",XGpio_DiscreteRead(&btns, 0));
+                  ~^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  %ld
+../src/helloworld.c:67:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77720	   2628	  24368	 104716	  1990c	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:16:10 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:67:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77720	   2628	  24368	 104716	  1990c	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:16:31 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:17:16 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:17:44 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:66:19: warning: format '%d' expects argument of type 'int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     printf("btns=%d\n\r",XGpio_DiscreteRead(&btns, 0));
+                  ~^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  %ld
+../src/helloworld.c:67:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77720	   2628	  24368	 104716	  1990c	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:17:53 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:66:19: warning: format '%d' expects argument of type 'int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     printf("btns=%d\n\r",XGpio_DiscreteRead(&btns, 0));
+                  ~^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  %ld
+../src/helloworld.c:67:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77860	   2628	  24368	 104856	  19998	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:18:00 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:18:23 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:20:00 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:65:19: warning: format '%d' expects argument of type 'int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     printf("btns=%d\n\r",XGpio_DiscreteRead(&btns, 0));
+                  ~^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  %ld
+../src/helloworld.c:66:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77860	   2628	  24368	 104856	  19998	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:21:02 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:65:19: warning: format '%d' expects argument of type 'int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     printf("btns=%d\n\r",XGpio_DiscreteRead(&btns, 0));
+                  ~^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  %ld
+../src/helloworld.c:66:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77860	   2628	  24368	 104856	  19998	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:21:14 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:21:41 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:65:19: warning: format '%d' expects argument of type 'int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     printf("btns=%d\n\r",XGpio_DiscreteRead(&btns, 1));
+                  ~^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  %ld
+../src/helloworld.c:66:25: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+     OLED_ShowString(0,0,"Hello Zt");
+                         ^~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  77860	   2628	  24368	 104856	  19998	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:28:12 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:67:5: error: expected ';' before 'printf'
+     printf("btns=%d\n\r", btns_values);
+     ^~~~~~
+../src/helloworld.c:70:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"No Button push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:75:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button centre push");
+                          ^~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:78:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button down push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:81:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button left push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:84:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button right push");
+                          ^~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:87:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button top push");
+                          ^~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+make: *** [src/helloworld.o] ´íÎó 1
+23:28:25 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:67:5: error: expected ';' before 'printf'
+     printf("btns=%lu\n\r", btns_values);
+     ^~~~~~
+../src/helloworld.c:70:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"No Button push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:75:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button centre push");
+                          ^~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:78:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button down push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:81:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button left push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:84:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button right push");
+                          ^~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:87:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button top push");
+                          ^~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+make: *** [src/helloworld.o] ´íÎó 1
+23:28:34 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:70:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"No Button push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:75:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button centre push");
+                          ^~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:78:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button down push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:81:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button left push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:84:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button right push");
+                          ^~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:87:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button top push");
+                          ^~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  78092	   2628	  24368	 105088	  19a80	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:28:45 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:30:15 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:71:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"No Button push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:76:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button centre push");
+                          ^~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:79:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button down push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:82:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button left push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:85:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button right push");
+                          ^~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:88:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button top push");
+                          ^~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:60:9: warning: unused variable 'old_btns_values' [-Wunused-variable]
+     u32 old_btns_values=0;
+         ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  78092	   2628	  24368	 105088	  19a80	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:31:12 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:72:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"No Button push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:77:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button centre push");
+                          ^~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:80:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button down push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:83:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button left push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:86:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button right push");
+                          ^~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:89:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button top push");
+                          ^~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  78092	   2628	  24368	 105088	  19a80	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:31:20 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:32:17 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:73:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"No Button push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:78:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button centre push");
+                          ^~~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:81:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button down push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:84:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button left push");
+                          ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:87:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button right push");
+                          ^~~~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:90:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0," Button top push");
+                          ^~~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  78092	   2628	  24368	 105088	  19a80	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:32:29 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:35:06 **** Auto Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../hello_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:73:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"No Button push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:78:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"Btn centre push");
+                          ^~~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:81:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"Btn down push");
+                          ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:84:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"Btn left push");
+                          ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:87:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"Btn right push");
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/helloworld.c:90:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+      OLED_ShowString(0,0,"Btn top push");
+                          ^~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:52:0:
+../src/oled.h:61:6: note: expected 'const u8 * {aka const unsigned char *}' but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../hello_bsp/ps7_cortexa9_0/lib -o "hello.elf"  ./src/helloworld.o ./src/oled.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hello.elf  |tee "hello.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  78076	   2628	  24368	 105072	  19a70	hello.elf
+'Finished building: hello.elf.size'
+' '
+23:37:28 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:37:30 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:37:32 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:37:34 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:37:35 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+23:41:56 **** Incremental Build of configuration Debug for project hello ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
