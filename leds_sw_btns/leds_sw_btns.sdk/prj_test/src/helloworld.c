@@ -49,12 +49,29 @@
 #include "platform.h"
 #include "xil_printf.h"
 #include "sleep.h"
+#include "xgpio.h"
+
 
 int main()
 {
     init_platform();
+    XGpio	sws,leds,btns;
+
+    int sws_check;
+    print("_____Start of the Program --\r\n");
+    XGpio_Initialize(&leds, XPAR_LEDS_DEVICE_ID);
+    XGpio_SetDataDirection(&leds, 1,0x00000000);
+
+    XGpio_Initialize(&sws, XPAR_SW_DEVICE_ID);
+      XGpio_SetDataDirection(&sws, 1,0xffffffff);
+
+    XGpio_Initialize(&btns, XPAR_BTNS_DEVICE_ID);
+      XGpio_SetDataDirection(&btns, 1,0xffffffff);
+
     while(1)
     {
+    	sws_check=XGpio_DiscreteRead(&sws, 1);
+    	XGpio_DiscreteWrite(&leds, 1,sws_check);
     	print("Hello World\n\r");
     	sleep(1);
     }
