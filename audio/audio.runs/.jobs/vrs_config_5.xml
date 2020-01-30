@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="system_xbar_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_xlconstant_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_xlconstant_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_control_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_control_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_clk_slow_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_clk_slow_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_Distortion_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_Distortion_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_octaver_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_octaver_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_trem_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_trem_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_delay_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_delay_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_PL_to_PS_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_PL_to_PS_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_PS_to_PL_0_0_synth_1" LaunchDir="F:/work/zynq_work2020/Zedboard_lab2020/audio/audio.runs/system_PS_to_PL_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+

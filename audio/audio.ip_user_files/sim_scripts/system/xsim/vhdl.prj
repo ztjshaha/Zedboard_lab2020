@@ -1,0 +1,37 @@
+vhdl xil_defaultlib  \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/family_support.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/common_types.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/pselect_f.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/address_decoder.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/slave_attachment.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/iis_ser.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/iis_deser.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/user_logic.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/axi_lite_ipif.vhd" \
+"../../../bd/system/ipshared/1288/zed_audio_ctrl.srcs/sources_1/imports/i2s_audio/i2s_ctrl.vhd" \
+"../../../bd/system/ip/system_zed_audio_ctrl_0_0/sim/system_zed_audio_ctrl_0_0.vhd" \
+"../../../bd/system/ipshared/9e30/MCLK_gen.vhd" \
+"../../../bd/system/ip/system_MCLK_gen_0_0/sim/system_MCLK_gen_0_0.vhd" \
+"../../../bd/system/ip/system_rst_ps7_0_100M_0/sim/system_rst_ps7_0_100M_0.vhd" \
+"../../../bd/system/ipshared/f438/control.vhd" \
+"../../../bd/system/ip/system_control_0_0/sim/system_control_0_0.vhd" \
+"../../../bd/system/ipshared/b5fa/sources_1/new/clk_slow.vhd" \
+"../../../bd/system/ip/system_clk_slow_0_0/sim/system_clk_slow_0_0.vhd" \
+"../../../bd/system/ipshared/4e49/sources_1/new/Distortion.vhd" \
+"../../../bd/system/ip/system_Distortion_0_0/sim/system_Distortion_0_0.vhd" \
+"../../../bd/system/ipshared/872d/sources_1/new/bram_oct.vhd" \
+"../../../bd/system/ipshared/872d/sources_1/new/octaver.vhd" \
+"../../../bd/system/ip/system_octaver_0_0/sim/system_octaver_0_0.vhd" \
+"../../../bd/system/ipshared/cf7a/sources_1/new/trem.vhd" \
+"../../../bd/system/ip/system_trem_0_0/sim/system_trem_0_0.vhd" \
+"../../../bd/system/ipshared/d61e/sources_1/new/bram.vhd" \
+"../../../bd/system/ipshared/d61e/sources_1/new/delay.vhd" \
+"../../../bd/system/ip/system_delay_0_0/sim/system_delay_0_0.vhd" \
+"../../../bd/system/ipshared/d69c/hdl/PL_to_PS_v1_0_S00_AXI.vhd" \
+"../../../bd/system/ipshared/d69c/hdl/PL_to_PS_v1_0.vhd" \
+"../../../bd/system/ip/system_PL_to_PS_0_0/sim/system_PL_to_PS_0_0.vhd" \
+"../../../bd/system/ipshared/17bd/hdl/PS_to_PL_v1_0_S00_AXI.vhd" \
+"../../../bd/system/ipshared/17bd/hdl/PS_to_PL_v1_0.vhd" \
+"../../../bd/system/ip/system_PS_to_PL_0_0/sim/system_PS_to_PL_0_0.vhd" \
+
+nosort
